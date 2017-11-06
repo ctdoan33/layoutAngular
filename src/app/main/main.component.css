@@ -1,0 +1,15 @@
+.main{
+	border: 1pt solid black;
+	background-color: lightskyblue;
+	display: inline-block;
+	width: 70%;
+	min-height: 400px;
+	vertical-align: top;
+	margin: 1%;
+}
+p{
+	margin: 0px 5px;
+}
+.content{
+	margin: 20px;
+}

@@ -1,0 +1,19 @@
+.nav{
+	border: 1pt solid black;
+	background-color: lightskyblue;
+	display: inline-block;
+	width: 20%;
+	min-height: 400px;
+	vertical-align: top;
+	margin: 1%;
+}
+p{
+	margin: 0px 5px;
+}
+.links{
+	text-align: center
+}
+button{
+	width: 75%;
+	margin-top: 10px;
+}

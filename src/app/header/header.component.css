@@ -1,0 +1,15 @@
+.header{
+	border: 1pt solid black;
+	background-color: lightskyblue;
+	display: inline-block;
+	width: 93%;
+	height: 100px;
+	vertical-align: top;
+	margin: 1%;
+}
+p{
+	margin: 0px 5px;
+}
+h1{
+	margin-left: 20px;
+}
